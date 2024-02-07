@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 18 20:11:59 2024
-
-@author: ben
-"""
-
 from numpy import array, matrix, zeros, diag, diagflat, dot, matmul
 from numpy.linalg import norm, inv
 
